@@ -1,0 +1,29 @@
+// если вы хотите использовать sass-переменные - удалите root
+:root {
+  // base
+  --font-family: "Inter", sans-serif;
+  --content-width: #{rem(592)};
+  --container-offset: #{rem(15)};
+  --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
+
+  // colors
+  --colors-black: #000000;
+  --colors-white: #ffffff;
+  --colors-crimsom: #E10838;
+  --colors-wild-watermelon: #ff5471;
+
+  // liner-gradient:
+  --bg-button-money: linear-gradient(25.25deg, rgb(255, 14, 70) 12.353%,rgb(227, 0, 54) 32.368%,rgb(253, 38, 78) 55.232%,rgb(255, 52, 93) 75.936%,rgb(253, 10, 70) 96.103%);
+
+  // box-shadow:
+  --shadow-button-money: 0px 0px 16px 0px rgb(240, 4, 62);
+
+  // border-radius
+  --radius-24: #{rem(24)};
+  --radius-32: #{rem(32)};
+  --radius-100: #{rem(100)};
+
+  // animation
+  --animation-timing: .3s;
+  --animation-transition: ease-in-out;
+}

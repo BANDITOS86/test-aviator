@@ -38,5 +38,5 @@
 ### Deploy: [Test-Aviator](https://banditos86.github.io/test-aviator/ "Test-Aviator")
 
 ### Результат:
-[![Test-Aviator](https://github.com/BANDITOS86/my-img/blob/main/aviator.png?raw=true)](https://banditos86.github.io/test-aviator/)
+[![Test-Aviator](https://github.com/BANDITOS86/my-img/blob/main/aviator.png?raw=true)](https://sashadev86.github.io/test-aviator/)
 

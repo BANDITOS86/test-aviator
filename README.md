@@ -14,9 +14,9 @@
 
 ### Демонстрация:
 
-* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://banditos86.github.io/test-aviator/ "Test-Aviator"), либо скачать репозиторий из ветки dev:
+* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/test-aviator/ "Test-Aviator"), либо скачать репозиторий из ветки dev:
 ```javascript
-  https://github.com/BANDITOS86/test-aviator/tree/dev
+  https://github.com/sashadev86/test-aviator/tree/dev
 ```
 * После скачивания репозитория, для подтягивания всех зависимостей в терминале запустите команду:
 ```javascript
@@ -38,5 +38,5 @@
 ### Deploy: [Test-Aviator](https://banditos86.github.io/test-aviator/ "Test-Aviator")
 
 ### Результат:
-[![Test-Aviator](https://github.com/BANDITOS86/my-img/blob/main/aviator.png?raw=true)](https://banditos86.github.io/test-aviator/)
+[![Test-Aviator](https://github.com/sashadev86/my-img/blob/main/aviator.png?raw=true)](https://sashadev86.github.io/test-aviator/)
 
